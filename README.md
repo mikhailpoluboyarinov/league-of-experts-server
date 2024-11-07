@@ -1,1 +1,1 @@
-# league-of-experts-server
+# league-of-experts-server-bot
